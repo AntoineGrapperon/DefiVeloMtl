@@ -1,0 +1,7 @@
+LINK	NODEA	NODEB
+A	1	2
+B	2	3
+C	3	4
+D	4	1
+E	3	5
+F	4	5
